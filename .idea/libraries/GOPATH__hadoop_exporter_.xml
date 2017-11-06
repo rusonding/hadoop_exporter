@@ -1,0 +1,104 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;hadoop_exporter&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/compress" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/testing" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/io" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/archive" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/index" />
+      <root url="file://$PROJECT_DIR$/../../../../goRepository/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/encoding" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/sort" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/reflect" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/path" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/html" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/context" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/net" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/text" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/image" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/unicode" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/math" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/cmd" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/hash" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/errors" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/sync" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/crypto" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/strconv" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/database" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/vendor" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/strings" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/syscall" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/regexp" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/internal" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/bufio" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/flag" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/expvar" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/unsafe" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/log" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/plugin" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/time" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/container" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/bytes" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/mime" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/fmt" />
+      <root url="file://$PROJECT_DIR$/../../../../goRepository/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/debug" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/builtin" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/runtime" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/os" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/go" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/compress" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/testing" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/io" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/archive" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/index" />
+      <root url="file://$PROJECT_DIR$/../../../../goRepository/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/encoding" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/sort" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/reflect" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/path" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/html" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/context" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/net" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/text" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/image" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/unicode" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/math" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/cmd" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/hash" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/errors" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/sync" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/crypto" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/strconv" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/database" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/vendor" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/strings" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/syscall" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/regexp" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/internal" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/bufio" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/flag" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/expvar" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/unsafe" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/log" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/plugin" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/time" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/container" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/bytes" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/mime" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/fmt" />
+      <root url="file://$PROJECT_DIR$/../../../../goRepository/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/debug" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/builtin" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/runtime" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/os" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/go/src/go" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
