@@ -4,7 +4,6 @@ Exports hadoop metrics via HTTP for Prometheus consumption.
 How to build
 ```
 go get github.com/prometheus/client_golang/prometheus
-go get github.com/prometheus/log
 go build namenode_exporter.go
 go build resourcemanager_exporter.go
 ```
@@ -29,5 +28,16 @@ Help on flags of resourcemanager_exporter:
     Path under which to expose metrics. (default "/metrics")
 ```
 
-Tested on HDP2.3
+Help on flags of zookeeper_cmd_exporter:
+```
+-zookeeper-host string
+    Hadoop zookeeperHost URL. (default "localhost")
+-web.listen-address string
+    Address on which to expose metrics and web interface. (default ":9079")
+-web.telemetry-path string
+    Path under which to expose metrics. (default "/metrics")
+```
+
+
+Tested on HDP2.6
 "# hadoop_exporter" 
