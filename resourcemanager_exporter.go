@@ -214,6 +214,11 @@ func (e *Exporter) Collect(ch chan<- prometheus.Metric) {
 		//log.Error(err)
 		fmt.Errorf("erro:", err)
 	}
+	defer func() {
+		if err := recover();err != nil {
+			fmt.Println("error...")
+		}
+	}()
 	m := f.(map[string]interface{})
 	cm := m["clusterMetrics"].(map[string]interface{})
 	e.activeNodes.Set(cm["activeNodes"].(float64))

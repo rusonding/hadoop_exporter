@@ -174,6 +174,11 @@ func (e *Exporter) Collect(ch chan<- prometheus.Metric) {
 		//log.Error(err)
 		fmt.Errorf("erro:", err)
 	}
+	defer func() {
+		if err := recover();err != nil {
+			fmt.Println("error...")
+		}
+	}()
 	m := f.(map[string]interface{})
 	var nameList = m["beans"].([]interface{})
 	for _, nameData := range nameList {
@@ -220,6 +225,8 @@ func (e *Exporter) Collect(ch chan<- prometheus.Metric) {
 	e.BlockReportsNumOps.Collect(ch)
 	e.BlockReportsAvgTime.Collect(ch)
 }
+
+
 
 func main() {
 	flag.Parse()

@@ -29,6 +29,7 @@
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/strings" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/syscall" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/regexp" />
+      <root url="file://$PROJECT_DIR$/../../../../goRepository/src/golang.org" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/internal" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/bufio" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/flag" />
@@ -78,6 +79,7 @@
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/strings" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/syscall" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/regexp" />
+      <root url="file://$PROJECT_DIR$/../../../../goRepository/src/golang.org" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/internal" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/bufio" />
       <root url="file://$PROJECT_DIR$/../../../../tools/go/src/flag" />
